@@ -1,0 +1,37 @@
+.inc-exp-container {
+  background-color: #fff;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px 2px rgb(61, 60, 60);
+}
+
+.inc-exp-container h4 {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.5;
+  color: rgb(73, 70, 70);
+}
+
+.amount {
+  font-weight: 600;
+  font-size: 24px;
+}
+
+.minus {
+  color: rgb(235, 64, 64);
+}
+.plus {
+  color: rgb(50, 158, 15);
+}
+
+.income {
+  border-right: 2px solid #ddd;
+}
+
+.inEx {
+  padding: 10px 20px;
+}

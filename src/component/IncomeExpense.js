@@ -1,4 +1,5 @@
 import React, { useContext } from "react";
+import "../css/IncomeExpense.css";
 import { GlobalContext } from "../context/GlobalState";
 
 const IncomeExpense = () => {
@@ -13,13 +14,13 @@ const IncomeExpense = () => {
   return (
     <>
       <div className="inc-exp-container">
-        <div>
-          <h4>Income</h4>
-          <p className="plus">Rp {income}</p>
+        <div className="inEx income">
+          <h4>INCOME</h4>
+          <p className="amount plus">Rp {income}</p>
         </div>
-        <div>
-          <h4>Expense</h4>
-          <p className="minus">Rp {expense}</p>
+        <div className="inEx">
+          <h4>EXPENSE</h4>
+          <p className="amount minus">Rp {expense}</p>
         </div>
       </div>
     </>

@@ -1,0 +1,15 @@
+.balance h4 {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.balance h2 {
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.balance {
+  margin-bottom: 40px;
+  box-shadow: -3px 10px 20px 1px rgba(131, 160, 248, 0.962);
+  padding: 10px 15px;
+}
