@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.e6aa0436.css","mappings":"AAAA,OACE,aACF,CACA,MACE,aACF","sources":["App.css"],"sourcesContent":[".minus {\r\n  color: rgb(235, 64, 64);\r\n}\r\n.plus {\r\n  color: rgb(50, 158, 15);\r\n}\r\n"],"names":[],"sourceRoot":""}
